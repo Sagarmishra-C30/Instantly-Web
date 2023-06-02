@@ -1,7 +1,7 @@
 
 # Instantly-Web
 
-![Instantly-Web Logo](https://github.com/TonyStark0801/Instantly-Web/blob/main/img/navLogo.jpg)
+![Instantly-Web Logo](https://github.com/Sagarmishra-C30/Instantly-Web/blob/main/img/navLogo.jpg)
 
 Introducing Instantly, the revolutionary peer-to-peer file transfer application that caters to your every need. Now, you can share files with other peers, regardless of their device, with just a click of a button. Whether you're on a smartphone or computer, Instantly has you covered with its innovative web app that allows for easy file transfers over the internet. Simply connect to the web and share files with lightning-fast speed and utmost security. Say goodbye to the traditional and tedious methods of file transfer and embrace Instantly – the game-changer in file sharing
 
@@ -69,7 +69,7 @@ In summary, the Instantly-Web project uses WebRTC and PeerJS to establish a peer
 ## Instantly - App
 The Instantly application is also available as an Android app, providing a convenient way to transfer files locally between Android devices. By downloading and installing the Instantly Android app, users can easily establish a peer-to-peer connection and transfer files securely and quickly without the need for an internet connection. This feature offers an efficient and reliable option for local file sharing, making the Instantly Android app a valuable addition to the Instantly suite of products. Click below to access the Instantly Android app.
 
-🔗 [Instantly-App Repo](https://github.com/TonyStark0801/instantly)
+🔗 [Instantly-App Repo](https://github.com/Sagarmishra-C30/Instantly-App)
 
 🔗 [Download Apk](https://github.com/TonyStark0801/Instantly/releases/download/Stable/Instantly.apk)
 
@@ -94,4 +94,4 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 
 ## Conclusion
-Thank you for your interest in Instantly-Web! If you have any feedback or questions about the project, please feel free to reach out to me on GitHub https://github.com/TonyStark0801
+Thank you for your interest in Instantly-Web! If you have any feedback or questions about the project, please feel free to reach out to me on [GitHub](https://github.com/Sagarmishra-C30)

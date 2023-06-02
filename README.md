@@ -71,7 +71,7 @@ The Instantly application is also available as an Android app, providing a conve
 
 🔗 [Instantly-App Repo](https://github.com/Sagarmishra-C30/Instantly-App)
 
-🔗 [Download Apk](https://github.com/TonyStark0801/Instantly/releases/download/Stable/Instantly.apk)
+🔗 [Download Apk](https://github.com/Sagarmishra-C30/Instantly-App/releases/download/v1.0/Instantly.apk)
 
 
 ## Acknowledgements

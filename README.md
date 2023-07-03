@@ -1,7 +1,7 @@
 
 # Instantly-Web
 
-![Instantly-Web Logo](https://github.com/Sagarmishra-C30/Instantly-Web/blob/main/img/navLogo.jpg)
+![Instantly-Web Logo](https://github.com/Sagarmishra-C30/Instantly-Web/blob/master/img/navLogo.jpg)
 
 Introducing Instantly, the revolutionary peer-to-peer file transfer application that caters to your every need. Now, you can share files with other peers, regardless of their device, with just a click of a button. Whether you're on a smartphone or computer, Instantly has you covered with its innovative web app that allows for easy file transfers over the internet. Simply connect to the web and share files with lightning-fast speed and utmost security. Say goodbye to the traditional and tedious methods of file transfer and embrace Instantly – the game-changer in file sharing
 
